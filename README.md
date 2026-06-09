@@ -32,15 +32,6 @@ Recording feature.
   <img src="docs/screenshots/landing-page-desktop.png" alt="Artistx landing page — desktop view with hero section and synchronized sheet music mock UI" width="900" />
 </p>
 
-<p align="center">
-  <img src="docs/screenshots/landing-page.png" alt="Artistx landing page — mobile view" width="390" />
-</p>
-
-### App UI (score player mock)
-
-<p align="center">
-  <img src="docs/screenshots/app-mock.png" alt="Artistx app UI — sheet music with real-time playhead and playback controls" width="560" />
-</p>
 
 ## Run locally
 
